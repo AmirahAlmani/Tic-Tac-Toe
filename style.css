@@ -4,6 +4,12 @@ img {
     width: 10%;
 }
 
+body {
+
+    background: url(https://previews.123rf.com/images/cherstva/cherstva1710/cherstva171000161/88718276-seamless-hand-drawn-tic-tac-toe-pattern-vector-illustration-in-black-and-white-colors-.jpg);
+
+}
+
 
 #imgReset {
 float: right;
@@ -17,7 +23,7 @@ h1 {
 
     text-align: center;
     font-family: 'Times New Roman';
-    
+    background-color: white;
   
 }
 
@@ -58,7 +64,7 @@ button:hover {
     text-align: center;
     position: absolute;
     padding-top: 5%;
- 
+    
   }
   
   .o:before {
@@ -76,20 +82,35 @@ button:hover {
 
   /* //============================================================ */
 
-  @media (max-device-width: 900px){
+  @media (max-device-width: 375px){
+
+
+    img {
+
+        height: 23%;
+        width: 23%;
+    }
+    
+    
+    #imgReset {
+    float: right;
+    margin-top: 1%;
+    margin-right: 3%;
+    
+    }
 
 
 
     .box {
         text-align: center;
-        margin-top: 20px;
+        margin-top: 10px;
         
     }
     
     
     .game {
-        width: 150px;
-        height: 150px;
+        width: 110px;
+        height: 110px;
         border: solid white;
         padding: 0px;
         margin: -5px;
