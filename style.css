@@ -8,7 +8,7 @@ img {
 body {
 
     background-image: url(https://previews.123rf.com/images/cherstva/cherstva1710/cherstva171000161/88718276-seamless-hand-drawn-tic-tac-toe-pattern-vector-illustration-in-black-and-white-colors-.jpg);
-   
+
 }
 
 
@@ -17,19 +17,19 @@ body {
     margin-top: 1%;
     margin-right: 3%;
     height: 9%;
-    width: 8%;
+    width: 9%;
 }
 
 
 h1 {
-    
+
     display: flex;
     justify-content: center;
     text-align: center;
     font-family: 'Ultra';
-    background-color:white;
+    background-color: white;
     margin-left: 0%;
-   width: 28%;
+    width: 28%;
     position: relative;
     left: 35%;
 
@@ -90,7 +90,7 @@ button:hover {
 
 /* //============================================================ */
 
-@media (max-device-width: 375px) {
+@media (min-device-width: 375px) {
 
 
     img {
@@ -116,10 +116,24 @@ button:hover {
 
 
 
+    h1 {
+
+        display: flex;
+        justify-content: center;
+        text-align: center;
+        font-family: 'Ultra';
+        background-color: white;
+        margin-left: 0%;
+        width: 60%;
+        position: relative;
+        left: 22%;
+
+    }
+
     .box {
         text-align: center;
         margin-top: 10px;
-
+        display: flexbox;
     }
 
 
@@ -129,7 +143,7 @@ button:hover {
         border: solid white;
         padding: 0px;
         margin: -5px;
-        display: inline-block;
+        /* display: inline-flex; */
         transition: 0.5s all;
 
         background: black;
