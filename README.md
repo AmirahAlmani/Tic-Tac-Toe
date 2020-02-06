@@ -25,9 +25,9 @@
 
 
 ## Wireframes:
-![my wireframe](wireframe1.png)
+![my wireframe](wireframes.png)
 
-![my wireframe](frontEnd.png)
+![my front end](frontEnd.png)
 
 
 ## Development process and problem-solving strategy:
