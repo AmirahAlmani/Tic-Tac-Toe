@@ -41,7 +41,7 @@
 and aleart who is win.
 * Create the function to reset game.
 
-## unsolved problems:
+## Future improvements:
 
 * The number of wins and the number of lose and the number of tie.
 
