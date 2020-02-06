@@ -10,7 +10,7 @@
 
 * css
 
-* DOM
+* Javascript
 
 ## User Story :
 
