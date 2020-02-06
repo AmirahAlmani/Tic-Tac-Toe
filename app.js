@@ -34,6 +34,14 @@ function clickEvent() {
 } 
 
 
+for (let i = 0; i < game.length; i++){
+
+
+    game[i].addEventListener('click', clickEvent);
+} //To addEventListener for each element 
+
+
+
 
 let arr = [
     ["#r1c1", '#r1c2', '#r1c3'],
@@ -48,12 +56,6 @@ let arr = [
 //array condition of win
 
 
-
-for (let i = 0; i < game.length; i++){
-
-
-    game[i].addEventListener('click', clickEvent);
-} //To addEventListener for each element 
 
 
 

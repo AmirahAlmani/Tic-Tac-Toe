@@ -15,6 +15,8 @@
 ## Wireframes:
 ![my wireframe](wireframe1.png)
 
+![my wireframe](frontEnd.png)
+
 
 ## User Story :
 
