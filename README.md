@@ -12,12 +12,6 @@
 
 * DOM
 
-## Wireframes:
-![my wireframe](wireframe1.png)
-
-![my wireframe](frontEnd.png)
-
-
 ## User Story :
 
 * The user open the Tic Tac Toe website.
@@ -28,6 +22,12 @@
 * User can reset game any time without refreshing the page.
 * User can play in different device.
 
+
+
+## Wireframes:
+![my wireframe](wireframe1.png)
+
+![my wireframe](frontEnd.png)
 
 
 ## Development process and problem-solving strategy:
