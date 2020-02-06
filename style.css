@@ -8,22 +8,23 @@ body {
 h1 {
 
     display: flex;
-    justify-content: center;
-    text-align: center;
-    font-family: 'Ultra';
-    background-color: white;
-    margin-left: 0%;
-    width: 28%;
-    position: relative;
-    left: 35%;
+     justify-content: center;
+     text-align: center;
+     font-family: 'Ultra';
+     background-color:white;
+     background-color: white;
+     margin-left: 0%;
+    width: 35%;
+     position: relative;
+     left: 32%;
 
 }
 
 
 img {
 
-    height: 10%;
-    width: 10%;
+    height: 12%;
+    width: 12%;
 }
 
 
@@ -104,9 +105,17 @@ button:hover {
 
     h1 {
 
-        text-align: center;
-        font-family: 'Times New Roman';
-        
+        display: flex;
+         justify-content: center;
+         text-align: center;
+         font-family: 'Ultra';
+         background-color: white;
+         margin-left: 0%;
+         width: 60%;
+         position: relative;
+         left: 22%;
+
+     }
       
     }
 
@@ -153,4 +162,3 @@ button:hover {
      
       }
 
-  }
