@@ -14,8 +14,6 @@
 
 ## User Story :
 
-* The user open the Tic Tac Toe website.
-* Users start play.
 * User can hear tone when click and when win or tie.
 * Game will show messageg who is win X or O.
 * Game will reset automatic when X is win or O win or tie without refreshing the page.
